@@ -1,0 +1,172 @@
+- name: BS朝日１
+  type: BS
+  channel: '000'
+
+- name: BS-TBS
+  type: BS
+  channel: '001'
+
+- name: BSジャパン
+  type: BS
+  channel: '002'
+
+- name: WOWOW Prime
+  type: BS
+  channel: '003'
+
+- name: NHK BSP
+  type: BS
+  channel: '004'
+
+- name: WOWOW Live
+  type: BS
+  channel: '005'
+
+- name: WOWOW Cinema
+  type: BS
+  channel: '006'
+
+- name: スター・チャンネル2-3
+  type: BS
+  channel: '007'
+
+- name: BSアニマックス
+  type: BS
+  channel: '008'
+
+- name: ディズニーチャンネル
+  type: BS
+  channel: '009'
+
+- name: BS11
+  type: BS
+  channel: '010'
+
+- name: スター・チャンネル1
+  type: BS
+  channel: '011'
+
+- name: TwellV
+  type: BS
+  channel: '012'
+
+- name: FOXスポーツエンタ
+  type: BS
+  channel: '013'
+
+- name: BS スカパー!
+  type: BS
+  channel: '014'
+
+- name: 放送大学
+  type: BS
+  channel: '015'
+
+- name: BS 日テレ
+  type: BS
+  channel: '016'
+
+- name: BS フジ
+  type: BS
+  channel: '017'
+
+- name: NHK BS1
+  type: BS
+  channel: '018'
+
+- name: グリーンチャンネル
+  type: BS
+  channel: '020'
+
+- name: J SPORTS 1
+  type: BS
+  channel: '021'
+
+- name: J SPORTS 2
+  type: BS
+  channel: '022'
+
+- name: シネフィルWOWOW
+  type: BS
+  channel: '023'
+
+- name: J SPORTS 3
+  type: BS
+  channel: '024'
+
+- name: J SPORTS 4
+  type: BS
+  channel: '025'
+
+- name: BS釣りビジョン
+  type: BS
+  channel: '026'
+
+- name: 日本映画専門ch
+  type: BS
+  channel: '027'
+
+- name: D-Life
+  type: BS
+  channel: '028'
+
+
+- name: ND02
+  type: CS
+  channel: '000'
+  satelite: '1' 
+
+- name: ND04
+  type: CS
+  channel: '001'
+  satelite: '1' 
+
+- name: ND06
+  type: CS
+  channel: '002' 
+  satelite: '1' 
+
+- name: ND08
+  type: CS
+  channel: '003'
+  satelite: '1' 
+
+- name: ND10
+  type: CS
+  channel: '004'
+  satelite: '1' 
+
+- name: ND12
+  type: CS
+  channel: '005'
+  satelite: '1' 
+
+- name: ND14
+  type: CS
+  channel: '006'
+  satelite: '1' 
+
+- name: ND16
+  type: CS
+  channel: '007'
+  satelite: '1' 
+
+- name: ND18
+  type: CS
+  channel: '008'
+  satelite: '1' 
+
+- name: ND20
+  type: CS
+  channel: '009'
+  satelite: '1' 
+
+- name: ND22
+  type: CS
+  channel: '010'
+  satelite: '1' 
+
+- name: ND24
+  type: CS
+  channel: '011'
+  satelite: '1' 
