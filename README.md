@@ -7,5 +7,4 @@ BonRecTest+Mirakurun環境でのChannels.ymlを書き続けるだけのgit.
 仮想OSにてmirakurun(win32)→mirakurun(Linux)+ChinaChuでの環境です
 
 
-変更履歴
-2018/05/08 BSPのトラポン移動に対応
+修正履歴はコミットを参照してください。
