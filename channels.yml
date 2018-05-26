@@ -1,4 +1,4 @@
-- name: BS’©“ú‚P
+- name: BSæœæ—¥ï¼‘
   type: BS
   channel: '000'
 
@@ -6,7 +6,7 @@
   type: BS
   channel: '001'
 
-- name: BSƒWƒƒƒpƒ“
+- name: BSã‚¸ãƒ£ãƒ‘ãƒ³
   type: BS
   channel: '002'
 
@@ -18,98 +18,97 @@
   type: BS
   channel: '004'
 
-- name: WOWOW Live
+- name: ãƒ‡ã‚£ã‚ºãƒ‹ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«
   type: BS
   channel: '005'
 
-- name: WOWOW Cinema
+- name: WOWOW Live
   type: BS
   channel: '006'
 
-- name: ƒXƒ^[Eƒ`ƒƒƒ“ƒlƒ‹2-3
+- name: WOWOW Cinema
   type: BS
   channel: '007'
 
-- name: BSƒAƒjƒ}ƒbƒNƒX
+- name: ã‚¹ã‚¿ãƒ¼ãƒ»ãƒãƒ£ãƒ³ãƒãƒ«2-3
   type: BS
   channel: '008'
 
-- name: ƒfƒBƒYƒj[ƒ`ƒƒƒ“ƒlƒ‹
-  type: BS
-  channel: '009'
-
 - name: BS11
-  type: BS
-  channel: '010'
-
-- name: ƒXƒ^[Eƒ`ƒƒƒ“ƒlƒ‹1
   type: BS
   channel: '011'
 
-- name: TwellV
+- name: ã‚¹ã‚¿ãƒ¼ãƒ»ãƒãƒ£ãƒ³ãƒãƒ«1
   type: BS
   channel: '012'
 
-- name: FOXƒXƒ|[ƒcƒGƒ“ƒ^
+- name: TwellV
   type: BS
   channel: '013'
 
-- name: BS ƒXƒJƒp[!
+- name: FOXã‚¹ãƒãƒ¼ãƒ„ã‚¨ãƒ³ã‚¿
   type: BS
   channel: '014'
 
-- name: •ú‘—‘åŠw
+- name: BS ã‚¹ã‚«ãƒ‘ãƒ¼!
   type: BS
   channel: '015'
 
-- name: BS “úƒeƒŒ
+- name: æ”¾é€å¤§å­¦
   type: BS
   channel: '016'
 
-- name: BS ƒtƒW
+- name: BS æ—¥ãƒ†ãƒ¬
   type: BS
   channel: '017'
 
-- name: NHK BS1
+- name: BS ãƒ•ã‚¸
   type: BS
   channel: '018'
 
-- name: ƒOƒŠ[ƒ“ƒ`ƒƒƒ“ƒlƒ‹
+- name: BSã‚¢ãƒ‹ãƒãƒƒã‚¯ã‚¹
+  type: BS
+  channel: '019'
+
+- name: NHK BS1
   type: BS
   channel: '020'
 
-- name: J SPORTS 1
-  type: BS
-  channel: '021'
-
-- name: J SPORTS 2
+- name: ã‚°ãƒªãƒ¼ãƒ³ãƒãƒ£ãƒ³ãƒãƒ«
   type: BS
   channel: '022'
 
-- name: ƒVƒlƒtƒBƒ‹WOWOW
+- name: J SPORTS 1
   type: BS
   channel: '023'
 
-- name: J SPORTS 3
+- name: J SPORTS 2
   type: BS
   channel: '024'
 
-- name: J SPORTS 4
+- name: ã‚·ãƒãƒ•ã‚£ãƒ«WOWOW
   type: BS
   channel: '025'
 
-- name: BS’Ş‚èƒrƒWƒ‡ƒ“
+- name: J SPORTS 3
   type: BS
   channel: '026'
 
-- name: “ú–{‰f‰æê–åch
+- name: J SPORTS 4
   type: BS
   channel: '027'
 
-- name: D-Life
+- name: BSé‡£ã‚Šãƒ“ã‚¸ãƒ§ãƒ³
   type: BS
   channel: '028'
 
+- name: æ—¥æœ¬æ˜ ç”»å°‚é–€ch
+  type: BS
+  channel: '029'
+
+- name: D-Life
+  type: BS
+  channel: '030'
 
 - name: ND02
   type: CS
