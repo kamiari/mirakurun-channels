@@ -30,10 +30,6 @@
   type: BS
   channel: '007'
 
-- name: スター・チャンネル2-3
-  type: BS
-  channel: '008'
-
 - name: BS11
   type: BS
   channel: '011'
@@ -73,6 +69,10 @@
 - name: NHK BS1
   type: BS
   channel: '020'
+  
+- name: スター・チャンネル2-3
+  type: BS
+  channel: '021'
 
 - name: グリーンチャンネル
   type: BS
